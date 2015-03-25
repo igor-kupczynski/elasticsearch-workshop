@@ -1,0 +1,26 @@
+{
+    "mappings": {
+        "execution": {
+            "properties": {
+                "date": {
+                    "format": "MM/dd/yyyy", 
+                    "type": "date"
+                },
+                "age": {
+                    "type": "integer"
+                },
+                "executionId": {
+                    "type": "integer"
+                },
+                "prisonerId": {
+                    "type": "integer"
+                },
+                "link": {
+                    "type": "string",
+                    "index": "not_analyzed"
+                }
+            }
+        }
+    }, 
+    "settings": {}
+}
