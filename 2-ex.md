@@ -16,9 +16,9 @@ curl -u $AUTH -XGET $URL/
 
 ### Kopf
 
-Url: http://cluster.kupczynski.info/_plugin/kopf/#!/rest
-User: elastic123
-Pass: Polibuda%
+* Url: http://cluster.kupczynski.info/_plugin/kopf/#!/rest
+* User: elastic123
+* Pass: Polibuda%
 
 ### Documentation
 
